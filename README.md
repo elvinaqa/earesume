@@ -1,9 +1,5 @@
 ## Welcome to GitHub Pages for EAResume
 
-You can use the [editor on GitHub](https://github.com/elvinaqa/earesume.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 This is a portfolio website standing for my CV and includes few details of my career, made up of HTML CSS (Wow.css) Animate.js Tilt.js, etc. tech stack
 
